@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emirhancelik1
-- 👀 I’m interested in C/C++
-- 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on C and C++ projects
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me emirhan.clik@hotmail.com
 
 <!---
